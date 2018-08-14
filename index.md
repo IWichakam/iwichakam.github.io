@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 ## Hi, this is my site!
